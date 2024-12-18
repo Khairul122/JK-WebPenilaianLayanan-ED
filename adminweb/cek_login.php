@@ -22,15 +22,7 @@ if ($ketemu > 0){
 	$_SESSION['fullname']  	= $r['fullname'];
 	$_SESSION['password']     = $r['password'];
 	$_SESSION['level']     = $r['level'];
-
-	
-	
-	
-  
-	
 	header('location:master.php?module=home');
-
-
 }
 else{
 	echo "<link href=../css/login.css rel=stylesheet type=text/css>";

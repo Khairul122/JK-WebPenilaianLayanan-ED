@@ -297,11 +297,6 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="modal-footer">
-                        <center>Copyright &copy; 2016 Telkomsel Grapari<br> All rights reserved.</center>
-                        <center>Created by Wahyu Budiman.</center>
-                    </div>
                 </div>
             </div>
         </form>
