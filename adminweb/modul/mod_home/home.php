@@ -38,9 +38,7 @@
             	</div>
               
             </div>
-            <div class="panel-footer">
-            	<center>Created Wahyu Budiman<br> All rights reserved.</center>
-            </div>
+           
         </div>
     </div>
 </div>

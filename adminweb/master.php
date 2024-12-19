@@ -17,7 +17,7 @@ if (empty($_SESSION['username']) AND empty($_SESSION['password'])) {
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Admin Telkomsel</title>
+    <title>Admin</title>
     <!-- Bootstrap CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <link href="../css/sb-admin.css" rel="stylesheet">
