@@ -84,9 +84,9 @@ if (empty($_SESSION['username']) AND empty($_SESSION['password'])) {
                         <li class="<?php if($_GET['module']=='home'){echo'active';} ?>">
                             <a href="?module=home"><i class="glyphicon glyphicon-home"></i> Home</a>
                         </li>
-                        <li class="<?php if($_GET['module']=='user'){echo'active';} ?>">
+                        <!-- <li class="<?php if($_GET['module']=='user'){echo'active';} ?>">
                             <a href="?module=user"><i class="glyphicon glyphicon-user"></i> Manajemen User</a>
-                        </li>
+                        </li> -->
                         <li class="<?php if($_GET['module']=='group'){echo'active';} ?>">
                             <a href="?module=group"><i class="glyphicon glyphicon-list"></i> Manajemen Group</a>
                         </li>
